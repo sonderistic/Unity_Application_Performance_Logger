@@ -1,0 +1,18 @@
+{
+  "name": "com.sonderistic.application-performance-logger",
+  "version": "1.0.0",
+  "displayName": "Application Performance Logger",
+  "description": "Logs application performance metrics",
+  "unity": "2020.3",
+  "author": {
+    "name": "Bryan Lee"
+  },
+  "type": "tool",
+  "samples": [
+    {
+      "displayName": "Sample Scene",
+      "description": "Contains a sample scene which demonstrates the usage of this package",
+      "path": "Samples/Scenes"
+    }
+  ]
+}

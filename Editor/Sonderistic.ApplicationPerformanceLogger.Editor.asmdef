@@ -1,0 +1,16 @@
+{
+    "name": "Sonderistic.ApplicationPerformanceLogger.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:be30c7f7df7492645867322eb318fb91"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
